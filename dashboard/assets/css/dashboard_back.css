@@ -1,0 +1,156 @@
+/*card-1*/
+.card-1{
+	background-color:rgba(123,109,206);
+}
+.card-color-1{
+	height:85%;
+	background-color:rgba(83,69,192);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-2*/
+.card-2{
+	background-color:rgba(183,124,54);
+}
+.card-color-2{
+	height:85%;
+	background-color:rgba(157,87,0);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-3*/
+.card-3{
+	background-color:rgba(106,84,122);
+}
+.card-color-3{
+	height:85%;
+	background-color:rgba(67,41,89);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-4*/
+.card-4{
+	background-color:rgba(129,174,229);
+}
+.card-color-4{
+	height:85%;
+	background-color:rgba(104,146,218);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-5*/
+.card-5{
+	background-color:rgba(129,195,95);
+}
+.card-color-5{
+	height:85%;
+	background-color:rgba(83,172,46);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-6*/
+.card-6{
+	background-color:rgba(152,97,154);
+}
+.card-color-6{
+	height:85%;
+	background-color:rgba(117,59,136);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-7*/
+.card-7{
+	background-color:rgba(118,125,171);
+}
+.card-color-7{
+	height:85%;
+	background-color:rgba(82,98,150);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-8*/
+.card-8{
+	background-color:rgba(57,189,193);
+}
+.card-color-8{
+	height:85%;
+	background-color:rgba(5,168,173);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-9*/
+.card-9{
+	background-color:rgba(233,140,135);
+}
+.card-color-9{
+	height:85%;
+	background-color:rgba(220,92,91);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-10*/
+.card-10{
+	background-color:rgba(225,193,155);
+}
+.card-color-10{
+	height:85%;
+	background-color:rgba(214,174,122);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-11*/
+.card-11{
+	background-color:rgba(222,143,146);
+}
+.card-color-11{
+	height:85%;
+	background-color:rgba(214,107,115);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
+/*card-12*/
+.card-12{
+	background-color:rgba(241,114,133);
+}
+.card-color-12{
+	height:85%;
+	background-color:rgba(238,70,105);
+	 --mask:
+    radial-gradient(13.12px at 50% calc(100% - 18.50px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+    radial-gradient(13.12px at 50% calc(100% + 8.50px),#0000 99%,#000 101%) 50% calc(100% - 10px)/40px 100% repeat-x;
+	-webkit-mask: var(--mask);
+          mask: var(--mask);
+}
